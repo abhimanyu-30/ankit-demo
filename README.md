@@ -1,2 +1,3 @@
 # ankit-demo
-This is my frist Github Repository
+This is my frist Github Repository.
+Author - Ankit Pal
